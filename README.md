@@ -1,12 +1,6 @@
-# React + Vite
+# Shopping Cart
+## T.O.P. react course shopping cart.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Short project to practice react concepts like, states, effects and Routing.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+App is a mockup of an e-commerce sites shopping cart, with navigable links to the home and shop page, a cart section that updates based on the number of items added to cart, and interactive product cards that allow you to add specified quantities of items to the cart.
